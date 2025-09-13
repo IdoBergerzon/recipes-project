@@ -13,5 +13,5 @@ The app allows users to search for recipes using the Spoonacular API, as well as
 
 ## 🛠️ Tech Stack
 - **Frontend**: Vue.js, BootstrapVue, Axios
-- **Backend**: Node.js, Express.js, Axios
+- **Backend**: Node.js, Express.js
 - **Database**: MySQL
